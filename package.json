@@ -1,0 +1,21 @@
+{
+  "name": "@obaratch/prefrontal",
+  "version": "0.0.0",
+  "description": "State Store for Frontend",
+  "sideEffects": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Obalab",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "babel-jest": "^27.4.1",
+    "jest": "^27.4.1"
+  },
+  "dependencies": {
+    "crud-object-diff": "^2.3.6",
+    "lodash": "^4.17.21"
+  }
+}
